@@ -1,4 +1,4 @@
-@Library("com.i27academy.slb@main") _
-firstpipeline(
+@Library("com.mobileum.slb@main") _
+RafmPipeline(
     ENV_NAME: 'Development'  
 )
