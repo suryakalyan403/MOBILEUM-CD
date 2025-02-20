@@ -1,3 +1,6 @@
+import com.mobileum.builds.RafmDeployments
+
+
 def call(Map pipelineparams) {
 
     RafmDeployments rafmdeployments = new RafmDeployments()
